@@ -1,5 +1,5 @@
 # Hi there, I am Elias Elfarri 👋
-## Mobile developer @ Fink and Flutter Oslo Meetup Organizer
+Mobile developer @ Fink and Flutter Oslo Meetup Organizer
 
 📱 I love all things mobile development, I just happen to focus a lot on Dart & Flutter
 
