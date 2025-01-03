@@ -11,6 +11,10 @@
 
 ⭐️ If you are interested in what I do, you can hit the Follow button here or find me on [Linkedin](https://www.linkedin.com/in/elias-elfarri/).
 
+☕️ Buy me coffee and sponsor my work:
+[![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Moelfarri)
+[![GitHub sponsors](https://img.shields.io/github/sponsors/spydon?color=orange&style=for-the-badge)](https://github.com/sponsors/Moelfarri)
+
 <!--
 **Moelfarri/Moelfarri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
