@@ -7,11 +7,9 @@
 
 💖 I love cross country skiing, downhill skiing, swimming and coding 
 
-💸 If you like the work that I do, you can consider sponsoring me.
-
 ⭐️ If you are interested in what I do, you can hit the Follow button here or find me on [Linkedin](https://www.linkedin.com/in/elias-elfarri/).
 
-☕️ Buy me coffee and sponsor my work:
+☕️ If you like the work that I do, you can consider sponsoring me:
 [![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Moelfarri)
 
 
